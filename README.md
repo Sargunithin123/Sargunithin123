@@ -132,11 +132,7 @@ Marri Laxman Reddy Institute of Technology and Management, Hyderabad
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sargunithin123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sargunithin123&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
+<img src="https://raw.githubusercontent.com/Sargunithin123/Sargunithin123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
