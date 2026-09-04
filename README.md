@@ -7,6 +7,10 @@
 Building practical web applications, solving problems, and exploring AI-powered products.
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=Sargunithin123&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/sargu-nithin-kumar-21b37625a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
