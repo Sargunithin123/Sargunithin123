@@ -123,21 +123,6 @@ Marri Laxman Reddy Institute of Technology and Management, Hyderabad
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sargunithin123&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargunithin123&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Sargunithin123/Sargunithin123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to software development opportunities, collaborations and interesting product ideas.
