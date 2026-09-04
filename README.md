@@ -127,8 +127,16 @@ Marri Laxman Reddy Institute of Technology and Management, Hyderabad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sargunithin123&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargunithin123&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sargunithin123&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargunithin123&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Sargunithin123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sargunithin123&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
 
 </div>
 
