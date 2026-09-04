@@ -14,9 +14,11 @@ Building practical web applications, solving problems, and exploring AI-powered 
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="mailto:sargunithinkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-sargunithinkumar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+📧 **sargunithinkumar@gmail.com**
 
 </div>
 
@@ -141,7 +143,7 @@ I'm open to software development opportunities, collaborations and interesting p
   <a href="https://github.com/Sargunithin123">GitHub</a> ·
   <a href="https://www.linkedin.com/in/sargu-nithin-kumar-21b37625a/">LinkedIn</a> ·
   <a href="https://leetcode.com/u/sargunithinkumar/">LeetCode</a> ·
-  <a href="mailto:sargunithinkumar@gmail.com">Email</a>
+  <a href="mailto:sargunithinkumar@gmail.com">📧 sargunithinkumar@gmail.com</a>
 </p>
 
 <div align="center">
